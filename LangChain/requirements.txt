@@ -1,0 +1,9 @@
+numpy
+pandas
+llama-index
+openai
+pypdf
+python-dotenv
+pinecone-client
+pyasn1
+pyopenssl
